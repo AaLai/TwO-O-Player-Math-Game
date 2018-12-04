@@ -32,4 +32,3 @@ Player
 
 P1 = New Player("P1")
 P2 = New Player("P2")
-
